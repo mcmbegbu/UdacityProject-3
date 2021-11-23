@@ -1,6 +1,6 @@
 UdacityProject-3
 Date created
-Include the date you created this project and README file.
+23rd November, 2021.
 
 Project Title
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
