@@ -11,5 +11,4 @@ The Project Submission consisted in the filling of a template with all the Git c
 Files used
 https://github.com/mcmbegbu/UdacityProject-3
 
-Credits
-https://github.com/sauravraghuvanshi
+
